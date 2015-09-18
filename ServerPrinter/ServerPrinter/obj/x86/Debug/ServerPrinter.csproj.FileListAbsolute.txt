@@ -1,0 +1,11 @@
+D:\HalotecProjects\ServerPrinting\ServerPrinter\ServerPrinter\bin\Debug\ServerPrinter.exe
+D:\HalotecProjects\ServerPrinting\ServerPrinter\ServerPrinter\bin\Debug\ServerPrinter.exe.config
+D:\HalotecProjects\ServerPrinting\ServerPrinter\ServerPrinter\bin\Debug\ServerPrinter.pdb
+D:\HalotecProjects\ServerPrinting\ServerPrinter\ServerPrinter\obj\x86\Debug\ServerPrinter.MainForm.resources
+D:\HalotecProjects\ServerPrinting\ServerPrinter\ServerPrinter\obj\x86\Debug\ServerPrinter.Properties.Resources.resources
+D:\HalotecProjects\ServerPrinting\ServerPrinter\ServerPrinter\obj\x86\Debug\ServerPrinter.csproj.GenerateResource.Cache
+D:\HalotecProjects\ServerPrinting\ServerPrinter\ServerPrinter\obj\x86\Debug\ServerPrinter.exe
+D:\HalotecProjects\ServerPrinting\ServerPrinter\ServerPrinter\obj\x86\Debug\ServerPrinter.pdb
+D:\Projects\ServerPrinting\ServerPrinter\ServerPrinter\bin\Debug\ServerPrinter.exe.config
+D:\Projects\ServerPrinting\ServerPrinter\ServerPrinter\obj\x86\Debug\ServerPrinter.exe
+D:\Projects\ServerPrinting\ServerPrinter\ServerPrinter\obj\x86\Debug\ServerPrinter.pdb
